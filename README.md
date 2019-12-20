@@ -5,5 +5,5 @@ Midterm Quiz Generator - Python
 * Feel free to modify based on your course
 
 Libraries
-* PdfPlumber
-* io
+* Using pdfPlumber for python (pip install pdfplumber)
+
